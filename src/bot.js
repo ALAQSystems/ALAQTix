@@ -96,7 +96,7 @@ client.on('interactionCreate', async (interaction) => {
       .setColor('#FFD700')
       .setTitle('Premium Features')
       .setDescription('Support us on Patreon to unlock premium features!')
-      .setURL('https://www.patreon.com/yourpatreon')
+      .setURL('patreon.com/alaq')
       .setFooter({ text: 'Thank you for your support!' });
 
     await interaction.reply({ embeds: [premiumEmbed], ephemeral: true });
