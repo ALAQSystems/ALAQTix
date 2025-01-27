@@ -1,0 +1,14 @@
+{
+  "ticketEmbedChannelId": "YOUR_CHANNEL_ID_HERE",
+  "supportRoleId": "YOUR_ROLE_ID_HERE",
+  "reactionPanels": [
+    {
+      "emoji": "🔧",
+      "topic": "Tech Support"
+    },
+    {
+      "emoji": "❓",
+      "topic": "General Inquiries"
+    }
+  ]
+}
